@@ -14,6 +14,11 @@ import React from 'react'
 
 const App = () => {
   console.log('working');
+  console.log('working');
+  console.log('working');
+  console.log('working');
+  console.log('working');
+  
   return (
     <View>
       <Text>App</Text>
