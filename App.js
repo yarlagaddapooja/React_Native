@@ -13,6 +13,7 @@ import { View, Text } from 'react-native'
 import React from 'react'
 
 const App = () => {
+  console.log('working');
   return (
     <View>
       <Text>App</Text>
